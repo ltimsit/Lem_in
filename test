@@ -1,0 +1,59 @@
+#bonjour
+9
+##start
+a 0 0
+b 1 1
+c 2 2
+bitefffffffffffffffffff 14 15
+d 3 3
+e 4 4
+f 5 5
+g 6 6
+h 7 7
+i 8 8
+jj 9- 9
+j 99 99
+k 10 10
+l 11 11
+m 12 12
+##end
+n 13 13
+dd 23 3
+de 24 4
+df 15 5
+dg 36 6
+dh 67 7
+di 58 8
+dj 69 9
+dk 100 10
+dl 111 11
+dm 122 12
+a-b
+a-c
+b-d
+d-f
+c-f
+c-e
+f-h
+f-i
+e-g
+g-i
+h-l
+l-k
+i-k
+i-j
+j-m
+m-n
+k-n
+
+L1-b L2-c
+L1-d L3-b L2-e L4-c
+L1-f L3-d L5-b L2-g L4-e L6-c
+L1-h L3-f L5-d L7-b L2-i L4-g L6-e L8-c
+L1-l L3-h L5-f L7-d L9-b L2-j L4-i L6-g L8-e
+L1-k L3-l L5-h L7-f L9-d L2-m L4-j L6-i L8-g
+L1-n L3-k L5-l L7-h L9-f L2-n L4-m L6-j L8-i
+L3-n L5-k L7-l L9-h L4-n L6-m L8-j
+L5-n L7-k L9-l L6-n L8-m
+L7-n L9-k L8-n
+L9-n

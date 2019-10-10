@@ -1,0 +1,31 @@
+29
+##start
+a 0 0
+b 1 1
+c 2 2
+d 3 3
+e 4 4
+f 5 5
+g 6 6
+h 7 7
+i 8 8
+j 9 9
+##end
+k 10 10
+l 11 11
+a-b
+a-c
+a-d
+b-e
+b-f
+c-f
+d-g
+e-h
+f-i
+g-i
+g-l
+h-j
+i-k
+j-k
+k-l
+caca
