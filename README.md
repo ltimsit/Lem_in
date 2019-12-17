@@ -18,4 +18,7 @@ that reproduce J.W. Suurballe node-disjoint path finding algorithm (http://www.m
 2 It evaluate the efficiency in round for the paths found
 3 If its more efficient than the previous iteration -> repeat the process.
 
+Our algorithm handle ant-hill with 10s of thousand of rooms and connections in under 0.5s
+
+Enjoy our displayer that showcase the found paths on small maps (max 42 rooms layout can be displayed)
 ![alt text](https://github.com/ltimsit/Lem_in/blob/master/readMeRessources/lemin.gif "lemin")
