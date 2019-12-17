@@ -8,6 +8,7 @@ GOAL of this Project:
 
 You are given data that represente rooms, connections and a number of ants for a virtual anthill and
 need to find the best combinaison of paths your ants can take to exit it in the shortest amont of move.
+Each room can only contain 1 ant at a time.
 
 Our algorithm and implementation :
 
