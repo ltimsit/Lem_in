@@ -18,3 +18,4 @@ that reproduce J.W. Suurballe node-disjoint path finding algorithm (http://www.m
 2 It evaluate the efficiency in round for the paths found
 3 If its more efficient than the previous iteration -> repeat the process.
 
+![alt text](https://github.com/ltimsit/Lem_in/blob/master/readMeRessources/lemin.gif "lemin")
